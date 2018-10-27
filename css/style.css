@@ -1,0 +1,7 @@
+.header{height:50px;background-color:#000;color:#fff;}
+.right{padding-left:350px;}
+.mid{background-color:#ccc;height:50px; }
+.left{ background-color:#000;color:#fff;height:500px;}
+.left .his{ padding-top:50px; }
+.hu li a{color:#fff;}
+.hu li a:hover{color:#000;}
